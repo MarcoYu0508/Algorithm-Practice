@@ -1,4 +1,4 @@
-package app;
+package app.sort;
 
 import java.util.Random;
 
